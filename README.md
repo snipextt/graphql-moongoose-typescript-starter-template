@@ -1,3 +1,3 @@
 # Starter Template for using Typescript, graphql and moongoose
 
-A starter template i use for building GraphQL APIs in javascript.
+A starter template I use for building GraphQL APIs with Typescript. 
